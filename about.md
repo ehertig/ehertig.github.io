@@ -5,13 +5,13 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/github_profile.jpg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hello! I am Emilie Hertig, a final-year PhD student in Astronomy at the University of Cambridge. I am fascinated by the most fundamental questions in cosmology such as the nature of space and time, the birth of the Universe and the cause of its current accelerated expansion. My various projects span a broad range of topics, but share a common goal of combining theoretical insight with advanced numerical simulation and data analysis methods.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I completed her bachelor’s and master’s degrees at EPFL, in my native Switzerland, specializing in theoretical physics. My first research project, carried out during an exchange year in Vancouver (Canada), focused on measuring the expansion rate of the Universe to shed light on dark energy. My master’s thesis consisted of searching for extensions of General Relativity in gravitational wave signals. In Cambridge, I am conducting research at the interface of cosmology and quantum field theory, in a multidisciplinary effort to unveil cosmic origins.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
