@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/github_profile.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile_picture.jpg "Profile Picture"){:.profile}
 
 Hello! I am Emilie Hertig, a final-year PhD student in Astronomy at the University of Cambridge. I am fascinated by the most fundamental questions in cosmology such as the nature of space and time, the birth of the Universe and the cause of its current accelerated expansion. My various projects span a broad range of topics, but share a common goal of combining theoretical insight with advanced numerical simulation and data analysis methods. For my PhD Cambridge, I am conducting research at the interface of cosmology and quantum field theory, in a multidisciplinary effort to unveil cosmic origins.
 
