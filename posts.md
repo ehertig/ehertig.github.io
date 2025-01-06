@@ -5,7 +5,7 @@ permalink: /posts/
 main_nav: true
 ---
 
-![CV]({{ site.baseurl }}/assets/Academic_CV_Hertig_full.pdf "CV"){:.cv}
+{{ site.baseurl }}/assets/Academic_CV_Hertig_full.pdf
 
 Here is a link to download my CV.
 
