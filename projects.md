@@ -16,7 +16,7 @@ main_nav: true
 
 <h2 id="headings">Lattice simulations of false vacuum decay</h2>
 
-<h4 id="headings">University of Cambridge as a member & QSimFP Consortium, in collaboration with Hiranya Peiris and Alex Jenkins</h4>
+<h4 id="headings">University of Cambridge & QSimFP Consortium, in collaboration with Hiranya Peiris and Alex Jenkins</h4>
 
 <p>  </p>
 
