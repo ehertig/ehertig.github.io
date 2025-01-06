@@ -5,8 +5,8 @@ permalink: /posts/
 main_nav: true
 ---
 
-{{ site.baseurl }}/assets/Academic_CV_Hertig_full.pdf
+{{site.baseurl}}/assets/Academic_CV_Hertig_full.pdf
 
-Here is a link to download my CV.
+Here is a [link]({{site.baseurl}}/assets/Academic_CV_Hertig_full.pdf) to download my CV.
 
-You can also check out my page on the Cambridge Kavli Institute for Cosmology website.
+You can also check out my [page](https://www.kicc.cam.ac.uk/staff/emilie-hertig) on the Cambridge Kavli Institute for Cosmology website.
