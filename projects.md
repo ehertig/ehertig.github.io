@@ -7,7 +7,7 @@ main_nav: true
 
 <hr>
 
-<h2 id="headings">B-mode delensing for the Simons Observatory</h2>
+<h3 id="headings">B-mode delensing for the Simons Observatory</h3>
 
 <h6 id="headings">University of Cambridge & Simons Observatory Collaboration, supervised by Anthony Challinor and Blake Sherwin</h6>
 
@@ -22,6 +22,8 @@ main_nav: true
 <ul>
   <li>The main analysis pipeline then takes observed sky maps and the lensing template as inputs, and outputs posterior distributions for our model parameters. We use maps in 6 frequency channels to constrain and clean Galactic foregrounds.</li>
 </ul>
+
+[![Component separation code]({{ site.baseurl }}/assets/BBPower_repo.jpg "Component separation code")](https://github.com/simonsobs/BBPower/tree/delensing_emilie)
 
 <hr>
 
