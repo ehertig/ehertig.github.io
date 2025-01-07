@@ -9,7 +9,7 @@ main_nav: true
 
 <h3 id="headings">B-mode delensing for the Simons Observatory</h3>
 
-<h6 id="headings">University of Cambridge & Simons Observatory Collaboration, supervised by Anthony Challinor and Blake Sherwin</h6>
+<h5 id="headings">University of Cambridge & Simons Observatory Collaboration, supervised by Anthony Challinor and Blake Sherwin</h5>
 
 <p> The Simons Observatory (SO) will target B-mode polarization anisotropies in the CMB to infer the tensor-to-scalar ratio (amplitude of inflationary gravitational waves). This faint signal must be disentangled from much brighter emissions by our own Galaxy, and from secondary B-modes produced by weak gravitational lensing. During my PhD, I worked on a pipeline performing both foregroung cleaning and delensing simultaneously, aiming to go from sky maps to unbiased and precise constraints on inflationary physics. The methods and results are presented in detail in this [paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043532) . </p>
 
