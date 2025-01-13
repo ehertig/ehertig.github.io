@@ -23,7 +23,7 @@ The Simons Observatory (SO) will target B-mode polarization anisotropies in the 
   <li>The main analysis pipeline then takes observed sky maps and the lensing template as inputs, and outputs posterior distributions for our model parameters. We use maps in 6 frequency channels to constrain and clean Galactic foregrounds.</li>
 </ul>
 
-[![Component separation code]({{ site.baseurl }}/assets/BBPower_repo.jpg "Component separation code")](https://github.com/simonsobs/BBPower/tree/delensing-emilie)
+[![Component separation code]({{ site.baseurl }}/assets/BBPower_repo.jpg "Component separation code")](https://github.com/simonsobs/BBPower/tree/delensing_emilie)
 
 <ul>
   <li>Demonstration on simulated maps: the template accurately captures the true lensing B-modes, and including it in the analysis leads constraints on the tensor-to-scalar ratio to visibly tighten.</li>
